@@ -39,6 +39,10 @@
 
    <dependencies>
       <dependency>
+         <groupId>err</groupId>
+         <artifactId>rr</artifactId>
+</dependency>
+      <dependency>
          <groupId>commons-lang</groupId>
          <artifactId>commons-lang</artifactId>
          <version>2.6</version>
