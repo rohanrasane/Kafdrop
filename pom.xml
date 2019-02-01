@@ -38,6 +38,9 @@
    </dependencyManagement>
 
    <dependencies>
+       <dependency>
+          error
+          </dependency>
       <dependency>
          <groupId>commons-lang</groupId>
          <artifactId>commons-lang</artifactId>
